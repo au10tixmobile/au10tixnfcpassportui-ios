@@ -34,7 +34,7 @@ let package = Package(
         .binaryTarget(
           name: "Au10tixNFCPassportKit",
           url: "https://github.com/au10tixmobile/Au10tixNFCPassportKit/archive/refs/tags/3.28.0.zip",
-          checksum: "230b29c7c5fd1db1bbc3b0ed820f1e17ada61a583e8dcf333701517699a4371a"
+          checksum: "a55e469980bca2adec5daae414f1379d9ac40bf2df72859ca3fec9cd4b87996c"
         ),
         .binaryTarget(
           name: "Au10tixBaseUI",
@@ -44,7 +44,7 @@ let package = Package(
         .binaryTarget(
           name: "Au10tixNFCPassportUI",
           url: "https://github.com/au10tixmobile/Au10tixNFCPassportUI/archive/refs/tags/3.28.0.zip",
-          checksum: "03b912ce78d93208779e715fb6bf67463410f4ecceda9454a257fc9c365f64b2"
+          checksum: "48b1130017d3f7796cfad345ce12676a7a9318f044109757d4c2d77da74f94e6"
         )
     ]
 )
